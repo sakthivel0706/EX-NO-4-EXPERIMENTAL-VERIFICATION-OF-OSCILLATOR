@@ -1,6 +1,6 @@
 ## EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
 ## 4. **EX.NO:**  EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
-## DATE:
+## DATE: 25-10-2025
 ## AIM:
 ---
 To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
@@ -60,7 +60,8 @@ R1 =15 R = 1.5 k. Rf = 29R1=450kΩ
 
 ---
 ## THEORY
- ##WIEN BRIDGE
+ ## WIEN BRIDGE
+ ## DATE: 01-11-2025
 A bridge circuit with two components connected in series and parallel combination is used to archived the required of phase shift of 0o. When the bridge is balanced the phase shift of 0o is achieved and the feedback signal is connected to the positive terminal; of Op-amp. So the Op-amp is acting as a non-inverting amplifier and the feedback network do not provide any phase shift.
 The frequency of oscillation is given by fo = 1/2πRC
 ## APPARATUS REQUIRED
@@ -102,8 +103,10 @@ Rf = 15K *2=30KΩ
 2. + Vcc and - Vcc supply is given to the power supply terminal of the Op-Amp IC.
 3.	By adjusting the amplitude and frequency knobs of the function generator, appropriate input voltage is applied to the inverting input terminal of the Op- Amp.
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
+
+
 ---
-## TABULATION/OBSERVATION
+##  TABULATION/OBSERVATION
 
 <img width="1253" height="450" alt="image" src="https://github.com/user-attachments/assets/34d113b9-75d3-40d4-a403-8038a58f4ac6" />
 
