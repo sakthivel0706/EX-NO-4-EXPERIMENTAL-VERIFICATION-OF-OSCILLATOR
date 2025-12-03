@@ -42,6 +42,8 @@ Therefore, Choose R = 1.5k
 To prevent loading,
 R1   10 R
 R1 =15 R = 1.5 k. Rf = 29R1=450kΩ
+![WhatsApp Image 2025-12-03 at 21 43 10_8e20be62](https://github.com/user-attachments/assets/5cf91689-816e-4684-aaeb-9b94d8f06ad4)
+
 ---
 ## PROCEDURE
 1.	Connect the circuit as shown in fig. With the design values.
@@ -50,7 +52,7 @@ R1 =15 R = 1.5 k. Rf = 29R1=450kΩ
 ---
 ## TABULATION/OBSERVATION
 
-![WhatsApp Image 2025-12-01 at 00 50 03_0360f375](https://github.com/user-attachments/assets/4204d777-af70-43e7-98d1-a319192a422e)
+![WhatsApp Image 2025-12-03 at 21 43 29_7e9b1623](https://github.com/user-attachments/assets/e320eb4b-164a-4b14-937d-8ddd295e6e45)
 
 
 ---
@@ -97,6 +99,8 @@ R=1/2πfC
 Assume R1 = 10R & find Rf from Rf = 2R1
 Therefore R1 = 1.5K *10=15KΩ
 Rf = 15K *2=30KΩ
+![WhatsApp Image 2025-12-03 at 21 43 52_5648f28f](https://github.com/user-attachments/assets/f96711c6-b705-489b-bcd4-a393c6527d10)
+
 ---
 ## PROCEDURE
 1.	Connections are given as per the circuit diagram
