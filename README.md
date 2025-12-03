@@ -27,7 +27,7 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
 
-![WhatsApp Image 2025-12-01 at 00 48 36_cefc3f33](https://github.com/user-attachments/assets/45a73336-99e8-4dce-b9b7-c6d22abeb85d)
+![WhatsApp Image 2025-12-04 at 00 48 33_50ff4097](https://github.com/user-attachments/assets/bbf18509-4f1e-4b40-aab1-b32b9e564093)
 
 
 ---
@@ -45,7 +45,8 @@ Therefore, Choose R = 1.5k
 To prevent loading,
 R1   10 R
 R1 =15 R = 1.5 k. Rf = 29R1=450kΩ
-![WhatsApp Image 2025-12-03 at 21 43 10_8e20be62](https://github.com/user-attachments/assets/5cf91689-816e-4684-aaeb-9b94d8f06ad4)
+
+![WhatsApp Image 2025-12-04 at 00 53 08_6a0c8615](https://github.com/user-attachments/assets/ed34c2ad-73ad-4d71-ab3d-edfdf30f4899)
 
 ---
 ## PROCEDURE
@@ -55,13 +56,15 @@ R1 =15 R = 1.5 k. Rf = 29R1=450kΩ
 ---
 ## TABULATION/OBSERVATION
 
-![WhatsApp Image 2025-12-03 at 21 43 29_7e9b1623](https://github.com/user-attachments/assets/e320eb4b-164a-4b14-937d-8ddd295e6e45)
+
+![WhatsApp Image 2025-12-04 at 00 48 50_24909021](https://github.com/user-attachments/assets/7fb317b5-0bc4-41f6-91b6-7438b807c89f)
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-12-01 at 00 55 43_8034d01c](https://github.com/user-attachments/assets/1c5a715c-bb5e-45c2-94d1-e6d1072e536a)
+
+![WhatsApp Image 2025-12-04 at 00 49 23_a02220fb](https://github.com/user-attachments/assets/2e43450d-d6d0-41e0-971e-63eb51021a04)
 
 ---
 ## THEORY
@@ -83,7 +86,8 @@ The frequency of oscillation is given by fo = 1/2πRC
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
 
-![WhatsApp Image 2025-12-01 at 00 57 22_5e1cad92](https://github.com/user-attachments/assets/600da84a-69fc-403e-bb6c-f32234dd5964)
+
+![WhatsApp Image 2025-12-04 at 00 49 58_8621f1f9](https://github.com/user-attachments/assets/2dfd0856-7d4d-4627-95b5-47331ba4ca71)
 
 ---
 ## MODEL GRAPH
@@ -103,7 +107,8 @@ R=1/2πfC
 Assume R1 = 10R & find Rf from Rf = 2R1
 Therefore R1 = 1.5K *10=15KΩ
 Rf = 15K *2=30KΩ
-![WhatsApp Image 2025-12-03 at 21 43 52_5648f28f](https://github.com/user-attachments/assets/f96711c6-b705-489b-bcd4-a393c6527d10)
+
+![WhatsApp Image 2025-12-04 at 00 52 11_b45eb5c0](https://github.com/user-attachments/assets/618e1c47-8a57-4e74-b006-290e133c44ed)
 
 ---
 ## PROCEDURE
@@ -116,13 +121,15 @@ Rf = 15K *2=30KΩ
 ---
 ##  TABULATION/OBSERVATION
 
-<img width="1253" height="450" alt="image" src="https://github.com/user-attachments/assets/34d113b9-75d3-40d4-a403-8038a58f4ac6" />
+
+![WhatsApp Image 2025-12-04 at 00 50 11_3f511360](https://github.com/user-attachments/assets/a840e166-35be-409d-8213-1dfe934d9193)
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-12-01 at 01 00 14_74bd0b84](https://github.com/user-attachments/assets/e106df82-a847-4d1a-b2fb-4ffbbb1e6daf)
+
+![WhatsApp Image 2025-12-04 at 00 50 42_c8921d6e](https://github.com/user-attachments/assets/59177562-a5cd-4adc-ad41-b00bfa302d10)
 
 
 ---
